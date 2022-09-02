@@ -113,7 +113,7 @@ def create_app(test_config=None):
 
             question.delete()
 
-            return({
+            return jsonify({
                 "success": True,
                 "deleted_question": question.id,
                 "questions": current_questions,
