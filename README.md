@@ -35,3 +35,6 @@ By making notes ahead of time, you will practice the core skill of being able to
 
 > View the [Frontend README](./frontend/README.md) for more details.
 
+### API DOCUMENTATION
+
+Please check [here](./Docs/README.md) for the API documentation
